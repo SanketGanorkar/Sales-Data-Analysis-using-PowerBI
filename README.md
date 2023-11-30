@@ -3,5 +3,5 @@ This GitHub repository highlights TechConnect Hardware's project featuring a Pow
 
 I have done this project along with CodeBasics Youtube channel.
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
-code basics youtube Playlist
+
 
